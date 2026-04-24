@@ -1,1 +1,0 @@
-# modmail-plugins
