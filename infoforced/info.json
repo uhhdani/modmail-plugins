@@ -1,0 +1,11 @@
+{
+    "name": "uhhdani",
+    "description": [
+        "Hosted by uhhdani",
+        "\n**Version:**\n`{0}`"
+    ],
+    "authors": ["uhhdani"],
+    "version": "1.0.0",
+    "bot_version": "4.0.0",
+    "dpy_version": "2.0.0"
+}
